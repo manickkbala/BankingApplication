@@ -73,6 +73,7 @@ class BankAccount
 		{
 			char option = '\0';
 			
+			System.out.println();
 			System.out.println("Welcome : "+ customername);
 			System.out.println("Your Id : "+ customerid);
 			System.out.println();
